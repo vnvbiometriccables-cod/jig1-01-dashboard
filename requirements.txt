@@ -1,0 +1,9 @@
+streamlit>=1.51,<2
+streamlit-autorefresh>=1.0.1
+gspread>=6.0,<7
+google-auth>=2.20
+requests>=2.31
+pandas>=2.1
+numpy>=1.26
+plotly>=5.20
+openpyxl>=3.1
